@@ -19,7 +19,7 @@ exports.handler = async function Index () {
      */
     email: 'your@email.com',
     twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
+    //linkedin: 'your-linkedin-name',
     instagram: 'yourInsta',
     facebook: 'your-facebook-name',
 
