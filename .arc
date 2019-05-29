@@ -1,5 +1,12 @@
 @app
-node-personal-website
+making-qbj
 
 @http
 get /
+get /hello
+
+@tables
+data
+  scopeID *String
+  dataID **String
+  ttl TTL
