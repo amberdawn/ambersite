@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-patch-yoyoyo",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
