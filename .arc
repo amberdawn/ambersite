@@ -4,6 +4,7 @@ making-qbj
 @http
 get /
 get /hello
+patch /yoyoyo
 
 @tables
 data
